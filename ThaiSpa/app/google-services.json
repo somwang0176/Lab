@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859896881677",
+    "project_id": "thaispa-b3e00",
+    "storage_bucket": "thaispa-b3e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859896881677:android:6864440925872468ec6b44",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.thaispa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859896881677-fc40kivcep2ev1d13fs7aldg6d9j5kvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCofw9B5LzdH0YQFM2nIwe2m-ReVQXtrXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859896881677-fc40kivcep2ev1d13fs7aldg6d9j5kvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
